@@ -97,7 +97,7 @@ char option;
 			std::cout << std::endl;
 			break;
 		default:
-			std::cout << "\tInvalid input" << std::endl;
+			std::cout << "\tThat is not a grade!" << std::endl;
 			std::cout << std::endl;
 			break;
 		}
